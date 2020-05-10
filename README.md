@@ -1,5 +1,5 @@
 # cv-maker
-*This is a cv-maker where user can fill their personal information and can download the cv afterwards. 
+This is a cv-maker where user can fill their personal information and can download the cv afterwards. 
 
 #DEMO: 
 https://cvmaker911.000webhostapp.com/
