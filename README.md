@@ -8,4 +8,4 @@ https://cvmaker911.000webhostapp.com/
 * Import Database file (id8358665_resume.sql). File is in the git itself.
 * Currently using pdfcrowd library to generate PDF
 * Also included Dompdf and api2pdf library included. Make necessay changes to use them
-* Currently hosted on 000webhost. FOllow the demo link to check it out.
+* Currently hosted on 000webhost. Follow the demo link to check it out.
