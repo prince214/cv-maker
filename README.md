@@ -8,4 +8,4 @@ https://cvmaker911.000webhostapp.com/
 * Database file is in the git itself.
 * Currently using pdfcrowd library to generate PDF
 * Also included Dompdf and api2pdf library included. Make necessay changes to use them
-
+* Currently hosted on https://in.000webhost.com/
